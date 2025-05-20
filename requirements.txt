@@ -1,7 +1,7 @@
 streamlit
-tensorflow
-opencv-python-headless
+opencv-python-headless==4.10.0.82
 numpy
-fpdf
 Pillow
+tensorflow-cpu==2.12.0
+fpdf
 
